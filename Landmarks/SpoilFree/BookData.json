@@ -1,0 +1,60 @@
+[
+    {
+        "Title": "The Way of Kings",
+        "genre": "Fantasy",
+        "id": 1001,
+        "description2": "I long for the days before the Last Desolation.The age before the Heralds abandoned us and the Knights Radiant turned against us. A time when there was still magic in the world and honor in the hearts of men.The world became ours, and we lost it. Nothing, it appears, is more challenging to the souls of men than victory itself.Or was that victory an illusion all along? Did our enemies realize that the harder they fought, the stronger we resisted? Perhaps they saw that the heat and the hammer only make for a better grade of sword. But ignore the steel long enough, and it will eventually rust away.",
+        "description":"There are four whom we watch. The first is the surgeon, forced to put aside healing to become a soldier in the most brutal war of our time. The second is the assassin, a murderer who weeps as he kills. The third is the liar, a young woman who wears a scholar's mantle over the heart of a thief. The last is the highprince, a warlord whose eyes have opened to the past as his thirst for battle wanes.The world can change. Surgebinding and Shardwielding can return; the magics of ancient days can become ours again. These four people are key.One of them may redeem us. And one of them will destroy us.",
+        "series": "Stormlight Archive",
+    },
+    {
+        "Title": "Words of Radiance",
+        "genre": "Fantasy",
+        "id": 1002,
+        "description2": "The Knights Radiant must stand again. The ancient oaths have at last been spoken; the spren return. Men seek that which was lost. I fear the struggle will destroy them. It is the nature of the magic. A broken soul has cracks into which something else can be fit. Surgebindings, the powers of creation themselves. They can brace a broken soul; but they can also widen its fissures.",
+        "description":"  The Windrunner, lost in a shattered land, balanced upon the boundary between vengeance and honor. The Lightweaver, slowly being consumed by her past, searching for the lie that she must become. The Bondsmith, born in blood and death, striving to rebuild what was destroyed. The Explorer, straddling the fates of two peoples, forced to choose between slow death and a terrible betrayal of all she believes. It is past time for them to awaken, for the Everstorm looms. And the Assassin has arrived.",
+        "series": "Stormlight Archive",
+    },
+    {
+        "Title": "Oathbringer",
+        "genre": "Fantasy",
+        "id": 1006,
+        "description2": "A new storm has come. Ash and red lightning sweep the land, awakening our ancient enemies. The Unmade—shadows of the Enemy's soul—stir, while the eyes of men open. This war is not, and never was, what they thought it to be.",
+        "description":"We may soon hold Surges again, for Radiance has returned to some, and shines toward others. The Captain, broken by loss, seeks reconciliation. The Spy, broken by cruelty, seeks completion. The Stonewalker, broken by oaths, seeks truth. The Traitor, broken by ambition, seeks freedom.And finally the King. Broken by war, he seeks the past. That which was abandoned. That which he must not know. For those secrets will crush him as they did the knights who came before.",
+        "series": "Stormlight Archive",
+    },
+    {
+        "Title": "Rhythm of War",
+        "genre": "Fantasy",
+        "id": 1006,
+        "description2": "After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinar's crafty ally Taravangian looms over every strategic move.",
+        "description":"Now, as new technological discoveries by Navani Kholin's scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the ancient tower that was once the heart of their strength. At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing to bond with humans to increase the number of Radiants. Adolin and Shallan must lead the coalition’s envoy to the honorspren stronghold of Lasting Integrity and either convince the spren to join the cause against the evil god Odium, or personally face the storm of failure.[",
+        "series": "Stormlight Archive",
+    },
+    {
+        "Title": "Leviathan Wakes",
+        "genre": "Sci-fi",
+        "id": 1003,
+        "description": "James Holden and the crew stop to help a stranded ship out in space. But trouble ensues when they find themselves stranded after helping. The crew must survive on a smaller ship, The Knight while avoiding the dangers of pirates, the militaries of mars and earth, and find out what happened to his ship.",
+        "description2":"Detective Miller is a cop where law enforcement is the law out in the asteroid belt. Earth and Mars' abuse of the people of the belt has caused a faction, the OPA to become prevelant. Members of this group start chaos throughout. Miller deals with this while having a secondary case, one of a missing girl. Julie Mao. This girl is more important than he could ever know.",
+        "series": "The Expanse",
+    },
+    {
+        "Title": "Caliban's War",
+        "genre": "Sci-fi",
+        "id": 1004,
+        "description": "In this title, we follow the crew of the Rocinante. They continue to assist the OPA and Fred Johnson and head to Ganymeade to find a scientist's daughter.",
+        "description2":"On earth, politicans are avoiding a war that might have already started. Chrisjen is fighting with the UN council to fight different factions vieing for everything they want.",
+        "series": "The Expanse",
+    },
+    {
+        "Title": "Gods of Jade and Shadow",
+        "genre": "Fantasy",
+        "id": 1005,
+        "description": "Casiopea is just a lowly maid, treated poorly by her family. She gets left behind on the family trip and is lured to a box her grandfather holds dearly. God of the dead Hun-Kame is looking for revenge against his brother and Casiopea is on an adventure and leaving the small town behind her.",
+        "description2":"",
+        "series": "nil",
+    },
+    
+]
+
